@@ -1,0 +1,2 @@
+D:\program\MyCppWorkSpace\管理系统\Debug\管理系统.exe
+D:\program\MyCppWorkSpace\管理系统\Debug\管理系统.pdb
